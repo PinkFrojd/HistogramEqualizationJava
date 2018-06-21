@@ -5,14 +5,14 @@ Implementation of image processing using histogram equalization
 ## Usage:
 
     >: javac HistogramEqualization.java
-    >: java: HistogramEqualizationWithHistogram <input_image> <output_image>
-    >: java: HistogramEqualizationWithHistogram <input_image>
+    >: java: HistogramEqualization <input_image> <output_image>
+    >: java: HistogramEqualization <input_image>
 
 ## Results
 
 | Image          | Before           | After  |
 | -------------  |:-------------:| -----:|
-| einstein       | ![einstein](https://github.com/PinkFrojd/HistogramEqualizationJava/blob/master/images/einstein.jpg) | ![equalized_einstein](https://github.com/PinkFrojd/HistogramEqualizationJava/blob/master/images/einstein.jpg)
+| einstein       | ![einstein](https://github.com/PinkFrojd/HistogramEqualizationJava/blob/master/images/einstein.jpg) | ![equalized_einstein](https://github.com/PinkFrojd/HistogramEqualizationJava/blob/master/images/equalized_einstein.jpg)
 | histogram      | ![histogram](https://github.com/PinkFrojd/HistogramEqualizationJava/blob/master/histograms/histogram.png)     | ![histogram_equalized](https://github.com/PinkFrojd/HistogramEqualizationJava/blob/master/histograms/histogram_equalized.png) |
 
 ### Authors
